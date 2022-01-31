@@ -3,6 +3,7 @@ _______________________
 ## SKILLS
 ## Programming skills
 * Python
+* Golang
 * C++
 * HTML
 * CSS
