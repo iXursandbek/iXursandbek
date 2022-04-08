@@ -8,11 +8,6 @@ _______________________
 * HTML
 * CSS
 
-## Language
-* English
-* Russian
-* Uzbek
-
 ## Technologies
 * Django
 * Git/GitHub
@@ -26,17 +21,7 @@ _______________________
 ________________________
 ## EDUCATION
 * Bacheolor : TUIT
-________________________
-## HOBBIES
-* Reading Book
-* Sport
-* Travel
-________________________
-## COGNITIVE TRAITS
-* Communication
-* Flexibility and adabtability
-* Quick learner
-* Team Oriented
+
 _________________________
 ## CONTACT
 * E-mail: ixursandbek@mail.ru
